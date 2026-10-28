@@ -1,13 +1,8 @@
 
 <div align="center">
+<img src="./KillerLab.png" width="100%" alt="KillerDread Digital Lab">
 
-# ⚡ KILLERDREAD // DIGITAL LAB
-
-### `BUILD` · `HACK` · `CREATE`
-
-**3D PRINTING | ELECTRONICS | AI-POWERED SOFTWARE**
-
-*Bridging the physical and digital worlds.*
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/KillerDread)
 [![Projects](https://img.shields.io/badge/Projects-Open_Source-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](https://github.com/KillerDread?tab=repositories)
